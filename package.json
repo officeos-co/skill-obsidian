@@ -1,0 +1,14 @@
+{
+  "name": "@officeos/skill-obsidian",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "skill.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/officeos-co/skill-obsidian"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@officeos/skill-sdk": "*"
+  }
+}
